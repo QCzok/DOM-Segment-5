@@ -4,6 +4,8 @@ Wir sind Betreiber eines Glückspiels.
 
 Auf unserer Seite sollen Besucher um Spielgeld wetten können.
 
+**Schaue dir zunächst die Lösung an**: https://qczok.github.io/DOM-Segment-5/
+
 ## Aufbau
 Wir benötigen eine `index.html`, eine `style.css` und eine `index.js`.
 
