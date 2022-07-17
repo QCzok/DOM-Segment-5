@@ -1,0 +1,38 @@
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    color: darkolivegreen;
+    font-size: 3rem;
+}
+
+button{
+    margin: 1rem;
+    padding: 0.5rem;
+    color: rgb(103, 67, 0);
+    background-color: white;
+    font-weight: bold;
+    width: 10rem;
+    font-size: 2rem;
+}
+
+#konto{
+    font-size: 3rem;
+    font-weight: bold;
+    color: darkcyan;
+    margin: 2rem;
+}
+
+#zahl{
+    border: 1px solid black;
+    border-radius: 50%;
+    font-weight: 2rem;
+    color:rgb(103, 67, 0);
+    padding: 2rem;
+    margin: 1rem;
+    font-size: 2rem;
+}
